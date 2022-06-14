@@ -1,0 +1,39 @@
+{
+  "Internet": [
+    {
+      "id": 1,
+      "title": "100MB",
+      "price": 89.99
+    },
+    {
+      "id": 2,
+      "title": "200MB",
+      "price": 119.99
+    },
+    {
+      "id": 3,
+      "title": "300MB",
+      "price": 199.99
+    }
+  ],
+  "TV": [
+    {
+      "id": 1,
+      "title": "Ultimate HD",
+      "price": 79.99
+    },
+    {
+      "id": 2,
+      "title": "Full HD",
+      "price": 99.99
+    }
+  ],
+  "Fixo": [
+    {
+      "id": 1,
+      "title": "Ilimitado Fixo brasil",
+      "price": 24.99
+    }
+  ]
+ 
+}
